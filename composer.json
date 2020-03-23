@@ -1,0 +1,12 @@
+{
+  "name": "prasadonline/list_users",
+  "description": "Wordpress Plugin to List Users by API",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Prasad Warnakulasuriya",
+      "email": "me@prasadonline.com"
+    }
+  ]
+}
